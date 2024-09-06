@@ -10,6 +10,7 @@ public class JenkinsDemoApplication {
         SpringApplication.run(JenkinsDemoApplication.class, args);
         System.out.println("helloJenkins!!!!!");
         System.out.println("helloJenkins!!!!!");
+        System.out.println("helloJenkins!!!!!");
     }
 
 }
