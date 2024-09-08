@@ -15,6 +15,7 @@ public class JenkinsDemoApplication {
         System.out.println("helloJenkins!!!!!");
         System.out.println("helloJenkins!!!!!");
         System.out.println("helloJenkins!!!!!21");
+        System.out.println("helloJenkins!!!!!21");
     }
 
 }
