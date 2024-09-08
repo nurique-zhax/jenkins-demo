@@ -13,6 +13,7 @@ public class JenkinsDemoApplication {
         System.out.println("helloJenkins!!!!!");
         System.out.println("helloJenkins!!!!!");
         System.out.println("helloJenkins!!!!!");
+        System.out.println("helloJenkins!!!!!");
     }
 
 }
