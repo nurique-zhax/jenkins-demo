@@ -22,7 +22,8 @@
 
 For this task, I used Oracle VirtualBox, with the CentOs 9:
 
-![](media/11376a99e00411479da62cd6a8f4e062.png)
+![11376a99e00411479da62cd6a8f4e062](https://github.com/user-attachments/assets/5f0338e6-a855-4d44-996c-a58e72891f11)
+
 
 **Step 2: Adding SSH key in GitHub and Jenkins**
 
