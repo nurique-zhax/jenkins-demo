@@ -11,11 +11,13 @@
 -   Step 5: Connect Jenkins to Tomcat
 -   Step 6: Testing the Integration
 
+
 **Technologies Used:**
 
 -   Oracle VirtualBox (RedHat CentOs 9)
 -   Tomcat
 -   Jenkins
+
 
 **Step 1: Virtual Machine**
 
