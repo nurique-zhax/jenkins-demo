@@ -30,12 +30,13 @@ We should add SSH key in GitHub and Jenkins, because we need to Jenkins see the 
 
 GitHub:
 
-![8992e08ec55bca35c2a9efe0396a20b1](https://github.com/user-attachments/assets/1f9d05eb-c67e-4c09-a4ab-011cc453f4c5)
+![8992e08ec55bca35c2a9efe0396a20b1](https://github.com/user-attachments/assets/32a43589-9bd9-4ba5-b25e-5c699e801d74)
 
 
 Jenkins:
 
-![578c27fea80e13253d796bf29fa32c6c](https://github.com/user-attachments/assets/0a2a9fda-c626-459d-b123-1e867da3ad4c)
+![578c27fea80e13253d796bf29fa32c6c](https://github.com/user-attachments/assets/02047e32-6951-4270-a428-b9e7b7dc0c89)
+
 
 
 **Step 3: Start and Enable Tomcat**:
@@ -57,7 +58,8 @@ We should create a user for Jenkins Deployment, to do that we need edit the “t
 
 After that, we need to add this user credentials to Jenkins:
 
-![48fb669eb27a5a85856d24fa691904f3](https://github.com/user-attachments/assets/dfa65a57-f535-4522-b633-962c6d84dc96)
+![48fb669eb27a5a85856d24fa691904f3](https://github.com/user-attachments/assets/65173054-cb63-40de-8ef3-f1c4b8e5c0d9)
+
 
 
 **Step 5: Connect Jenkins to Tomcat**
